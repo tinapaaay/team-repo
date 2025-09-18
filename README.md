@@ -1,2 +1,3 @@
 # team-repo
-Christine Joy Espiritu
+Christine Joy Espiritu<br>
+Jon Rian Anonuevo
